@@ -1,4 +1,4 @@
-# csci402-IT
+# csci402-Information Technologies
 Semester Project Information 
 
 STEAME LOGIC LLC 
